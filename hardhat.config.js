@@ -20,7 +20,7 @@ module.exports = {
     goerli: {
       enabled: false,
       url: "<your goerli url>",
-      accounts: ["0x68a5ebffcd7e7140afa1376c08315c1d037f5d4e74a1bdad7edd2b68f7a150d2"]
+      accounts: ["<private key>"]
     }
   },
   etherscan: {
